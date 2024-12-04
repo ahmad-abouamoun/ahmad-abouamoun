@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aabouamoun@gmail.com**
 
-- ⚡ Fun fact **In my opinion C is kind of the best language to start coding in**
+- ⚡ Fun fact **In my opinion C is kind of the best language to start coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
